@@ -1,3 +1,3 @@
 # Xstage.github.io
 
-This is the Webpage of the "Experimental Stage Project"
+Repository holding the static website for the "Experimental Stage Project"
