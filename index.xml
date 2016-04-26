@@ -5,18 +5,8 @@
     <link>http://Xstage.github.io/</link>
     <description>Recent content on Experimental Stage Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 31 Mar 2016 06:48:27 +0200</lastBuildDate>
+    <language>de-de</language>
     <atom:link href="http://Xstage.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>first</title>
-      <link>http://xstage.github.io/first/</link>
-      <pubDate>Thu, 31 Mar 2016 06:48:27 +0200</pubDate>
-      
-      <guid>http://xstage.github.io/first/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
